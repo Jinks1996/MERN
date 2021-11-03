@@ -21,6 +21,6 @@
     "morgan": "~1.9.1",
     "nodemon": "^2.0.2",
     "react-material-ui-form-validator": "^2.0.9",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
